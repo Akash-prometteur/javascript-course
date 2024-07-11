@@ -28,6 +28,7 @@ body {
   border: none;
   font-size: 15px;
   cursor: pointer;
+  padding: 6px;
 }
 
 .delete-todo-button {
